@@ -2,6 +2,8 @@
 
 A modern dental management interface built with React, TypeScript, and Tailwind CSS.
 
+![Screenshot](Screenshot_image.png)
+
 ## Features
 
 - 🦷 Dental template management
